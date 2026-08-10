@@ -1,0 +1,13 @@
+{
+  "name": "bot-painel-cooldown-discord",
+  "version": "1.0.0",
+  "description": "Bot Discord com painel de regras automático, cooldowns e avisos.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.4.7"
+  }
+}
